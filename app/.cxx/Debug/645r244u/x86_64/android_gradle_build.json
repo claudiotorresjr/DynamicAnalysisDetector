@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/home/claudio/AndroidStudioProjects/DetectFrida/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/claudio/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/claudio/AndroidStudioProjects/DetectFrida/app/.cxx/Debug/645r244u/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/claudio/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/claudio/AndroidStudioProjects/DetectFrida/app/.cxx/Debug/645r244u/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "native-lib",
+      "output": "/home/claudio/AndroidStudioProjects/DetectFrida/app/build/intermediates/cxx/Debug/645r244u/obj/x86_64/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/claudio/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/claudio/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

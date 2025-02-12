@@ -1,0 +1,1 @@
+/home/claudio/AndroidStudioProjects/DetectFrida/app/build/intermediates/cxx/Debug/645r244u/obj/armeabi-v7a

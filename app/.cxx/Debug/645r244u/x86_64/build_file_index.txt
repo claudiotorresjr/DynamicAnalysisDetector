@@ -1,0 +1,1 @@
+/home/claudio/AndroidStudioProjects/DetectFrida/app/src/main/cpp/CMakeLists.txt
