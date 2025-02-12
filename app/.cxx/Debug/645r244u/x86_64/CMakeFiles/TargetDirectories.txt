@@ -1,3 +1,0 @@
-/home/claudio/AndroidStudioProjects/DetectFrida/app/.cxx/Debug/645r244u/x86_64/CMakeFiles/native-lib.dir
-/home/claudio/AndroidStudioProjects/DetectFrida/app/.cxx/Debug/645r244u/x86_64/CMakeFiles/edit_cache.dir
-/home/claudio/AndroidStudioProjects/DetectFrida/app/.cxx/Debug/645r244u/x86_64/CMakeFiles/rebuild_cache.dir
